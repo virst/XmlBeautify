@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XmlBeautify": {
+      "commandName": "Project",
+      "commandLineArgs": "30.xml 78.xml"
+    }
+  }
+}
