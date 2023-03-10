@@ -1,9 +1,9 @@
 ﻿#if SERI
 using Serilog;
-using System.Diagnostics;
 using System.Globalization;
 #endif
 using System.Xml.Linq;
+using System.Diagnostics;
 
 namespace XmlBeautify;
 
